@@ -3,7 +3,6 @@
 This is the **backend** of the Employee Management System developed using **Spring Boot** and **MySQL**. It provides RESTful APIs to perform CRUD operations on employee data.
 
 ## 🔗 Frontend Repository
-
 ➡️ https://github.com/rockyhans/Employee-Management-App
 ---
 
